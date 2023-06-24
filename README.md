@@ -7,7 +7,7 @@
     一款支持各种主流语言模型的聊天的机器人！
     <br/>
     <br/>
-    <a href="https://chatgpt-qq.lss233.com/"><strong>» 查看使用教程 »</strong></a>
+    <a href="https://chatgpt-qq.lss2133.com/"><strong>» 查看使用教程 »</strong></a>
     <br/>
   </p>
 </p>
